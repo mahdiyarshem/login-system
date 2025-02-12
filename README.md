@@ -1,1 +1,2 @@
-idk who is public this src but i fix and debug that
+** New Login System you guys should replace this code on clien.cpp **
+by $traight , Ancient
