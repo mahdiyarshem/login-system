@@ -1,2 +1,1 @@
-** New Login System you guys should replace this code on clien.cpp **
-by $traight 
+Hameye in code ha betor kholase bakhsh bandi shodan, shoma dar marhaleye aval bayad inaro dar taabe void toye menus.cpp gharar bedid, va dakhele void inaro gharar bedid, register be SQL system motasele.
